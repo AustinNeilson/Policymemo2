@@ -1,0 +1,17 @@
+.text-uppercase{
+    color: white !important;
+}
+h4{
+    color: white;
+    text-decoration: underline;
+}
+p{
+    color: white;
+    text-align: center;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: white;
+}
